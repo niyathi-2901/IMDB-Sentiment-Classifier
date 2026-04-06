@@ -1,12 +1,25 @@
-# IMDB Sentiment Classifier
+# 🎬 IMDB Sentiment Classifier
 
-This project classifies movie reviews as positive or negative using Machine Learning and NLP.
+This project is a Machine Learning web application that classifies movie reviews as **Positive 😊** or **Negative 😠** using NLP techniques.
 
-## Technologies Used
+## 🚀 Features
+- Real-time sentiment prediction
+- Confidence score
+- WordCloud visualization
+- Simple UI using Streamlit
+
+## 🧠 Technologies Used
 - Python
-- Streamlit
 - Scikit-learn
+- Streamlit
+- TF-IDF (NLP)
 
-## How to Run
-1. Run model.py
-2. Run streamlit run app.py
+## ▶️ How to Run
+1. Run:
+   python model.py
+
+2. Run:
+   streamlit run app.py
+
+3. Open browser:
+   http://localhost:8501
